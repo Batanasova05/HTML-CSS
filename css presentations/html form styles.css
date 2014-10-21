@@ -1,0 +1,26 @@
+body {
+font-family: Tahoma;
+font-size: 14px;
+margin: 0;
+padding:0
+}
+
+#container {
+width:300px;
+height: 876px;
+background-image: url(formBackground.jpg);
+padding: 15px 10px 15px 10px;
+}
+
+h4 {
+font-size: 14px;
+color: white;
+}
+
+#name {
+border: 1px solid white;
+width: 280px;
+height: 30px;
+border-radius: 8px;
+}
+

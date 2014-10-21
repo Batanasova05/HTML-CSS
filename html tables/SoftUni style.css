@@ -1,0 +1,69 @@
+
+table{
+font-family: tahoma;
+font-size: 14px;
+margin: 10px;
+border: 1px solid black;
+}
+
+
+th, td{
+border: 1px solid black;
+width: 100px;
+padding: 5px;
+}
+
+tr{
+height: 100px;
+}
+
+.top{
+vertical-align: top;
+}
+
+.top-right{
+vertical-align: top;
+text-align: right;
+}
+
+.topcentre{
+vertical-align: top;
+text-align: center;
+}
+
+.bottom{
+vertical-align: bottom;
+}
+
+.centre{
+text-align: center;
+
+}
+
+.right{
+vertical-align: right;
+}
+
+
+.big {
+font-size: 1.5em;
+text-align: right;
+}
+
+th {
+font-size: 2em;
+}
+
+table, tr, td table {
+margin:0;
+}
+
+table tr td table tr{
+height: 50px;
+}
+
+table tr td table  tr td{
+font-size: 0.8em;
+font-weight: bold;
+
+}

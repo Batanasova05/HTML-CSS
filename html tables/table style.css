@@ -1,0 +1,27 @@
+body {
+font-family: tahoma;
+font-size: 14px;
+}
+
+table {
+border: 1px solid #808080 ;
+width: 380px;
+font-size: 1.1em;
+padding: 0px, 0px, 1px, 1px;
+}
+
+thead{
+text-align: left;
+}
+
+th {
+font-size: 2em;
+}
+
+h4 {
+margin-bottom: 0;
+}
+
+p {
+margin-top: 0;
+}

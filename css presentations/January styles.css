@@ -1,0 +1,151 @@
+body {
+font-family: Tahoma;
+font-size: 12px;
+}
+
+#container {
+width: 530px;
+height: 200px;
+margin: 0 auto;
+border-top: 5px #FFFF00 dotted;
+border-left: 5px #FF0000 dashed;
+border-bottom: 7px #0000FF double;
+border-right: 5px #008B00 solid;
+box-shadow: 15px 15px 5px gray;
+padding: 8px;
+}
+
+
+#rectangular {
+display: block;
+text-transform: uppercase;
+font-size: 40px;
+margin-top: 10px;
+margin-left: 30px;
+text-shadow: 10px 10px 20px gray;
+
+}
+
+#inner {
+display: block;
+font-size: 16px;
+margin-top: 10px;
+margin-left: 50px;
+text-shadow:10px 15px 20px gray;
+padding: 2px;
+}
+
+#first-line {
+width: 420px;
+height: 90px;
+margin: 0 auto;
+border: 2px solid #0000ff;
+border-radius: 70px;
+margin-top: 20px;
+}
+
+#second-line {
+width: 417px;
+height: 89px;
+margin: 0 auto;
+border: 2px solid #008000;
+border-radius: 70px;
+
+}
+
+
+#third-line {
+width: 412px;
+height: 86px;
+margin: 0 auto;
+border: 2px solid #ffff00;
+border-radius: 70px;
+}
+
+
+#forth-line {
+width: 408px;
+height: 81px;
+margin: 0 auto;
+border: 2px solid #ff0000;
+border-radius: 70px;
+}
+
+#left {
+text-align: center;
+width: 141px;
+font-size: 12px;
+border: 5px outset #ffa600;
+background-color: #d8921a; 
+margin-top: 6px;
+margin-left: 52px;
+}
+
+#right {
+text-align: center;
+width: 141px;
+font-size: 12px;
+border: 5px outset #ffa600;
+background-color: #d8921a; 
+margin-top: -24px;
+margin-left: 211px;
+}
+
+#small-circle {
+width: 23px;
+height: 23px;
+border-radius: 50px;
+background-color: gray;
+margin-top: -44px;
+margin-left: 333px;
+
+}
+
+#small-text {
+width: 13px;
+height: 13px;
+border-radius: 25px;
+border: 2px dashed #ffffff;
+margin-top:-20px;
+margin-left: 336px;
+}
+
+#larger-circle {
+width: 38px;
+height: 38px;
+border-radius: 50px;
+background-color: gray;
+margin-top: -44px;
+margin-left: 366px;
+
+}
+
+#larger-text {
+width: 28px;
+height: 23px;
+border-radius: 25px;
+border: 2px dashed #ffffff;
+margin-top:-34px;
+margin-left: 369px;
+}
+
+#big-circle {
+width: 116px;
+height: 60px;
+border-radius: 30px;
+background-color: gray;
+margin-top: -87px;
+margin-left: 456px;
+}
+
+#big-text{
+width: 103px;
+height: 45px;
+border-radius: 25px;
+border: 2px dashed #ffffff;
+margin-top:-54px;
+margin-left: 461px;
+color:  #ffffff;
+text-align: center;
+font-size: 18px;
+}
